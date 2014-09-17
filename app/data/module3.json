@@ -1,0 +1,22 @@
+{
+    "files": {
+        "file1": {
+            "name": "file1",
+            "src": "videos/test.mp4",
+            "poster":"images/angular.png",
+            "description":"this is the sample video to show html5 video"
+        },
+        "file2": {
+            "name": "file2",
+            "src": "videos/test.mp4",
+            "poster":"images/angular.png",
+            "description":"this is the sample video to show html5 video"
+        },
+        "file3": {
+            "name": "file1",
+            "src": "videos/test.mp4",
+            "poster":"images/angular.png",
+            "description":"this is the sample video to show html5 video"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "modules": {
+        "module1": {
+            "name": "module1",
+            "url":"data/module1.json",
+            "cover":"images/angular.png",
+            "description":"this the first module",
+            "title":"Angular Videos"
+        },
+        "module2": {
+            "name": "module2",
+            "url": "data/module2.json",
+            "cover":"images/bootstrap.png",
+            "description":"this the second module",
+            "title":"Bootstrap Videos"
+        },
+        "module3": {
+            "name": "module3",
+            "url": "data/module3.json",
+            "cover":"images/gulp.png",
+            "description":"this the third module",
+            "title":"Gulp Videos"
+        }
+
+    }
+}

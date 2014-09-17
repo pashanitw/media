@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "user_name": "admin",
+            "password": "admin"
+        },
+        {
+            "user_name": "pasha shaik",
+            "password": "12345"
+        },
+        {
+            "user_name": "pasha shaik",
+            "password": "12345"
+        }
+
+    ]
+}

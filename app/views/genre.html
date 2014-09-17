@@ -1,0 +1,14 @@
+<div class="videos">
+<div data-ng-repeat="genre in genres" class="video-item" >
+    <div class="video-file card" >
+<video controls width="640" height="480" poster="{{genre.poster}}">
+    <source ng-src="{{genre.src}}"  type="video/mp4">
+<!--    <source src="sample.ogv"  type="video/ogg">
+    <source src="sample.webm" type="video/webm">-->
+
+</video>
+<article data-ng-bind="genre.description">
+    </div>
+</article>
+</div>
+</div>
